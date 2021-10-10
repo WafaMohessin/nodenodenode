@@ -89,25 +89,7 @@ console.log('inquirer')
         })
 
 
-        
-
-
-          /*console.log(html){
-            fs.writeFile("newFile.html",html,function(err){
-              if(err) throw err
-              console.log('file saved')
-            }
-          
-          
-          
-             .then((answers) => {
-              const htmlPageContent = generateHTML(answers);
-          
-              fs.writeFile('index.html', htmlPageContent, (err) =>
-                err ? console.log(err) : console.log('Successfully created index.html!')
-              );
-            });
-           */
+      
 
     
 
